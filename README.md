@@ -12,12 +12,11 @@ First clone the repository from Github and switch to the project directory, make
 
 Run the following commands in the cloned repository  :
 
-Starting the back-end API :
     $ cd api
     $ npm install
     $ npm run start
 
-Starting the back-end API :
+Starting the back-end API 
     $ cd client
     $ npm install
     $ npm run start
