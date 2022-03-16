@@ -10,13 +10,14 @@ First clone the repository from Github and switch to the project directory, make
     $ git clone https://github.com/singhmohit932/Task-List-App/
 
 
-Run the following commands in the cloned repository  :
+Run the following commands in the cloned repository to start the back-end server :
 
     $ cd api
     $ npm install
     $ npm run start
 
-Starting the back-end API 
+Run the following commands in the cloned repository to start the React client server :
+
     $ cd client
     $ npm install
     $ npm run start
